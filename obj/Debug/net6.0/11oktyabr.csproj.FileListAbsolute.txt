@@ -1,0 +1,14 @@
+C:\Users\Nuran\source\repos\11oktyabr\11oktyabr\obj\Debug\net6.0\11oktyabr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuran\source\repos\11oktyabr\11oktyabr\obj\Debug\net6.0\11oktyabr.AssemblyInfoInputs.cache
+C:\Users\Nuran\source\repos\11oktyabr\11oktyabr\obj\Debug\net6.0\11oktyabr.AssemblyInfo.cs
+C:\Users\Nuran\source\repos\11oktyabr\11oktyabr\obj\Debug\net6.0\11oktyabr.csproj.CoreCompileInputs.cache
+C:\Users\Nuran\source\repos\11oktyabr\11oktyabr\bin\Debug\net6.0\11oktyabr.exe
+C:\Users\Nuran\source\repos\11oktyabr\11oktyabr\bin\Debug\net6.0\11oktyabr.deps.json
+C:\Users\Nuran\source\repos\11oktyabr\11oktyabr\bin\Debug\net6.0\11oktyabr.runtimeconfig.json
+C:\Users\Nuran\source\repos\11oktyabr\11oktyabr\bin\Debug\net6.0\11oktyabr.dll
+C:\Users\Nuran\source\repos\11oktyabr\11oktyabr\bin\Debug\net6.0\11oktyabr.pdb
+C:\Users\Nuran\source\repos\11oktyabr\11oktyabr\obj\Debug\net6.0\11oktyabr.dll
+C:\Users\Nuran\source\repos\11oktyabr\11oktyabr\obj\Debug\net6.0\refint\11oktyabr.dll
+C:\Users\Nuran\source\repos\11oktyabr\11oktyabr\obj\Debug\net6.0\11oktyabr.pdb
+C:\Users\Nuran\source\repos\11oktyabr\11oktyabr\obj\Debug\net6.0\11oktyabr.genruntimeconfig.cache
+C:\Users\Nuran\source\repos\11oktyabr\11oktyabr\obj\Debug\net6.0\ref\11oktyabr.dll
